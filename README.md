@@ -1,2 +1,11 @@
-# PCOS-Risk-Predictor
-This repository contains a PCOS Risk Predictor, a machine learning-based web application designed to predict the likelihood of Polycystic Ovary Syndrome (PCOS) based on patient details. The project leverages a Random Forest Classifier and is deployed using Streamlit.
+# 🩺 PCOS Risk Predictor
+
+A simple yet powerful ML-powered web app that predicts **PCOS risk** based on patient details. Enter your info, hit predict, and get instant insights. Built with **Streamlit, Flask, and Random Forest** for quick and accurate assessments.
+
+## 🚀 Features
+- **Super Simple UI**: Just enter your details and get an instant prediction.
+- **AI-Powered Insights**: Trained on medical data to assess PCOS risk.
+- **Fast & Accessible**: Runs on Streamlit for easy deployment.
+
+## ✨ Author
+Built by **Niharika** 🚀
