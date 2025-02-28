@@ -8,4 +8,4 @@ A simple yet powerful ML-powered web app that predicts **PCOS risk** based on pa
 - **Fast & Accessible**: Runs on Streamlit for easy deployment.
 
 ## ✨ Author
-Built by **Niharika** 🚀
+Built by [@nkhanna94](https://github.com/nkhanna94) 🚀
