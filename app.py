@@ -3,7 +3,7 @@ import joblib
 import numpy as np
 
 # Load the trained model
-model = joblib.load("random_forest_model.pkl")
+model = joblib.load("model.pkl")
 
 # Set the app title and icon
 st.set_page_config(page_title="🩺 PCOS Detection", page_icon="🩺")
